@@ -5,7 +5,7 @@ We have the following policy.
 
 - Don't hassle to prepare
 - Everyone can join and leave in the middle
-- Do not skip if we have few attenndee
+- Do not skip if we have few attendees
  
  
 This event is inspired by these meetings below.
