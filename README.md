@@ -1,4 +1,4 @@
-# iOS Lunch 🍱
+# iOS Night 🌙
 iOS Lunch is the meeting where we are talking about iOS development related stuff.
 
 We have the following policy.
