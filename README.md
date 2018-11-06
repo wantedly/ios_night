@@ -8,7 +8,8 @@ We have the following policy.
 - Do not skip if we have few attendees
 
 Place: Wantedly Office, MG Shirokanedai bldg 5F, 5-12-7, Shirokanedai, Minato-ku, Tokyo  [Google Map](https://goo.gl/maps/LvKsEBYs9mB2)
- 
+
+**If you want to join the meeting, you can apply from [this meetup project in Wantedly](https://www.wantedly.com/projects/251897).**
  
 This event is inspired by these meetings below.
 
@@ -29,6 +30,10 @@ iOS NightはiOS開発関連の話をする会です。
 - スキップしない
 
 場所: Wantedly オフィス, 東京都港区白金台5-12-7 MG白金台ビル 5F [Google Map](https://goo.gl/maps/LvKsEBYs9mB2)
+
+もし参加されたい場合は、[Wantedly のミートアップ募集](https://www.wantedly.com/projects/251897)からご応募ください。
+
+
 
 iOS Night は以下の集まりを参考にして運営しています。
 
