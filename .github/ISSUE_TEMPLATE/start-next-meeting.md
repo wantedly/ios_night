@@ -8,9 +8,16 @@ about: In order to start next meeting, create a issue for it
 - Everyone can join and leave in the middle
 - Do not skip if we have few attendees
 
-2018/MM/DD 12:30~13:30
+2018/MM/DD 19:00~20:00
 
-Let's comment something you want to talk! 
+If you have anything that you want to read, please comment on this issue!
+You can also find the new topics from Newsletters:
+
+- https://iosdevweekly.com/issues
+- http://ios-goodies.com/
+
+hashtag [#ios_night](https://twitter.com/hashtag/ios_night)
+
+　　　　　　　　　・・・
+
 話したいことをコメントしましょう！日本語でOKです。
-
-hashtag [#ios_lunch](https://twitter.com/hashtag/ios_lunch)
