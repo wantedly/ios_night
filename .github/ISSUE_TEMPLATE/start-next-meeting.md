@@ -15,6 +15,7 @@ You can also find the new topics from Newsletters:
 
 - https://iosdevweekly.com/issues
 - http://ios-goodies.com/
+- https://www.swiftbysundell.com/
 
 hashtag [#ios_night](https://twitter.com/hashtag/ios_night)
 
