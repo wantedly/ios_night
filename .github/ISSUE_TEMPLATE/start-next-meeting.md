@@ -22,3 +22,5 @@ hashtag [#ios_night](https://twitter.com/hashtag/ios_night)
 　　　　　　　　　・・・
 
 話したいことをコメントしましょう！日本語でOKです。
+
+cc/ @wantedly/ios
