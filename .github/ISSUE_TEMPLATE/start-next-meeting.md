@@ -17,7 +17,7 @@ You can also find the new topics from Newsletters:
 - http://ios-goodies.com/
 - https://www.swiftbysundell.com/
 
-hashtag [#ios_night](https://twitter.com/hashtag/ios_night)
+[Edit this template](https://github.com/wantedly/ios_night/edit/master/.github/ISSUE_TEMPLATE/start-next-meeting.md)
 
 　　　　　　　　　・・・
 
