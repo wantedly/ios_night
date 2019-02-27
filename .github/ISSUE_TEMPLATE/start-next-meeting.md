@@ -20,7 +20,7 @@ Pearl Jam (Subject to change)
 
 ## Who
 You are working for Wantedly? Sure, you can join anytime.
-If not, you need to contact us first. Or, you can "want to visit" to the meetup, which you can find in www.wantedly.com/companies/wantedly/projects.
+If not, you need to contact us first. Or, you can "want to visit" the meetup, which you can find in www.wantedly.com/companies/wantedly/projects.
 
 
 ## What
