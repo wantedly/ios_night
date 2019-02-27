@@ -11,7 +11,7 @@ about: In order to start next meeting, create a issue for it
 
 ## When
 
-2019/MM/DD 19:00~20:00
+2019/03/05 19:00~20:00
 
 ## Where
 Pearl Jam (Subject to change)
@@ -20,19 +20,18 @@ Pearl Jam (Subject to change)
 
 ## Who
 You are working for Wantedly? Sure, you can join anytime.
-
 If not, you need to contact us first. Or, you can "want to visit" to the meetup, which you can find in www.wantedly.com/companies/wantedly/projects.
 
 
 ## What
 You write topics like below contents and we talk about these on the meetup.
 
-- News topics you found
-- Questions or issues you have on your daily development 
-- Today's Shortcuts
+- News topics you found ✨
+- Questions or issues you have on your daily development 🤔
+- Today's Shortcuts ⛳️
 
 
-You can find the new topics from Newsletters:
+Also, you can find new topics from the newsletters:
 
 - https://iosdevweekly.com/issues
 - http://ios-goodies.com/
@@ -48,7 +47,8 @@ You can find the new topics from Newsletters:
 
 　　　　　　　　　・・・
 
-話したいことをコメントしましょう！日本語でOKです。
+開催までに話したいことをコメントしましょう。
+より多くの学びを得るためにどんな内容でもアウトプットを歓迎します！😊
 
 cc/ @wantedly/ios
 
