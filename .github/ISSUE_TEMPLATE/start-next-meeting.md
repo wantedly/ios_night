@@ -36,6 +36,7 @@ Also, you can find new topics from the newsletters:
 - https://iosdevweekly.com/issues
 - http://ios-goodies.com/
 - https://www.swiftbysundell.com/
+- https://forums.swift.org/top/weekly
 
 
 ## How
