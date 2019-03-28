@@ -39,6 +39,7 @@ Also, you can find new topics from the newsletters:
 - https://forums.swift.org/top/weekly
 - https://swiftweekly.github.io/
 - https://nshipster.com/
+- https://www.pointfree.co/blog
 
 
 ## How
