@@ -11,7 +11,7 @@ about: In order to start next meeting, create a issue for it
 
 ## When
 
-2019/03/05 19:00~20:00
+2019/05/00 19:00~20:00
 
 ## Where
 Pearl Jam (Subject to change)
