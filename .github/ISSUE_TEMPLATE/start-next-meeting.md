@@ -1,17 +1,15 @@
 ---
 name: Start next meeting
 about: In order to start next meeting, create a issue for it
+title: 2019/05/00 19:00~20:00
+labels: ''
+assignees: ''
 
 ---
 
 ## Why
 - For Enhancing our skills 💪
 - For enjoying iOS/Swift development 🥳
-
-
-## When
-
-2019/05/00 19:00~20:00
 
 ## Where
 Pearl Jam (Subject to change)
