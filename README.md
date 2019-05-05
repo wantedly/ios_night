@@ -16,11 +16,13 @@ If not, you need to contact us first. Or, you can request "want to visit" the me
 
 
 ### What
-You write topics like below contents and we talk about these on the meetup.
+We write topics like below contents and we talk about these on the meetup.
 
 - News topics you found ✨
 - Questions or issues you have on your daily development 🤔
 - Productivity
+
+You can find [the issues](https://github.com/wantedly/ios_night/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Ameetup+) for the latest and the past.
 
 
 ### How
