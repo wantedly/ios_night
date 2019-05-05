@@ -1,4 +1,4 @@
-# iOS Night 🌙
+# iOS Night 📱🌙
 iOS Night is the meeting where we are talking about iOS development related stuff.
 
 ### Why
