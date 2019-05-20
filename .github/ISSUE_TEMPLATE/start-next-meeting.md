@@ -55,3 +55,6 @@ Also, you can find new topics from the newsletters:
 cc/ @wantedly/ios
 
 [Edit this template](https://github.com/wantedly/ios_night/edit/master/.github/ISSUE_TEMPLATE/start-next-meeting.md)
+
+## Previous issue
+<!-- Paste the previous issue url here -->
