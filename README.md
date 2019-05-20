@@ -6,7 +6,7 @@ iOS Night is the meeting where we are talking about iOS development related stuf
 - For enjoying iOS/Swift development 🥳
 
 ### When
-19:00-20:00, Every Tuesday
+19:30-20:30, Every Tuesday
 
 ### Where
 Pearl Jam (Subject to change)
