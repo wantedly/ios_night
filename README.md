@@ -19,7 +19,7 @@ If not, you need to contact us first. Or, you can request "want to visit" the me
 
 
 ### What
-We write topics like below contents and we talk about these on the meetup.
+We write topics like below contents and we talk about these on the meetup. Every participant needs to write one topic at least.
 
 - News topics you found ✨
 - Questions or issues you have on your daily development 🤔

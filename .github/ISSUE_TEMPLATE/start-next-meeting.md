@@ -22,7 +22,7 @@ If not, you need to contact us first. Or, you can "want to visit" the meetup, wh
 
 
 ## What
-You write topics like below contents and we talk about these on the meetup.
+You write topics like below contents and we talk about these on the meetup. Every participant needs to write one topic at least.
 
 - News topics you found ✨
 - Questions or issues you have on your daily development 🤔
@@ -49,7 +49,8 @@ Also, you can find new topics from the newsletters:
 
 　　　　　　　　　・・・
 
-開催までに話したいことをコメントしましょう。
+参加者は開催までに話したいことを少なくとも1トピックをコメントしましょう。
+ネタ被りを避けるために、まずはタイトルだけでコメントすることを推奨します。
 より多くの学びを得るためにどんな内容でもアウトプットを歓迎します！😊
 
 cc/ @wantedly/ios
