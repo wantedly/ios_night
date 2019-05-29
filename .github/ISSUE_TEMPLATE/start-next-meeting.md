@@ -1,7 +1,7 @@
 ---
 name: Start next meeting
 about: In order to start next meeting, create a issue for it
-title: 2019/05/00 19:30~20:30
+title: 2019/06/00 19:30~20:30
 labels: 'meetup'
 assignees: ''
 
