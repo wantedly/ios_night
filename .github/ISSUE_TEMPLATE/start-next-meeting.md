@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+⚠️ This repository is public. / 公開リポジトリです。
+
 ## Why
 - For Enhancing our skills 💪
 - For enjoying iOS/Swift development 🥳
